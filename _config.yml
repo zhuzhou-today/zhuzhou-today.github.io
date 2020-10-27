@@ -1,5 +1,7 @@
 theme: jekyll-theme-tactile
 
+url: http://www.zhuzhou.today
+
 webrick:
   headers:
     My-Header: My-Header-Value
