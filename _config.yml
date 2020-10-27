@@ -1,2 +1,7 @@
 theme: jekyll-theme-tactile
 baseurl: http://www.zhuzhou.today
+
+webrick:
+  headers:
+    My-Header: My-Header-Value
+    My-Other-Header: My-Other-Header-Value
