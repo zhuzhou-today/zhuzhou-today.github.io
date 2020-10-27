@@ -1,7 +1,6 @@
 theme: jekyll-theme-tactile
 
 url: http://www.zhuzhou.today
-site_name: 今日株洲
 
-site:
-  name: 今日株洲网
+page:
+  title: 今日株洲网
